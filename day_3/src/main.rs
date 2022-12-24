@@ -7,7 +7,7 @@ use common::file_util;
 use std::collections::HashMap;
 
 fn main() {
-    println!("Advent of Code Day 2");
+    println!("Advent of Code Day 3");
     let data = file_util::read_file("../inputs/day_3.txt", "\n");
 
     part_1(&data);
